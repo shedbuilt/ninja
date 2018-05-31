@@ -3,3 +3,5 @@ VERSION=1.8.2
 REVISION=1
 SRC=https://github.com/ninja-build/ninja/archive/v1.8.2/ninja-1.8.2.tar.gz
 SRCMD5=5fdb04461cc7f5d02536b3bfc0300166
+OPTIONS=bootstrap|release
+DEFAULTS=release
